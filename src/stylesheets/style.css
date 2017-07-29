@@ -1,0 +1,37 @@
+*{
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    background-clip: white;
+    margin: 0;
+    padding: 0;
+    border-width: 0;
+    outline: 0;
+}
+/**
+    HEADER BLOCKS
+**/
+.header{
+    background-color:white;
+    margin-bottom: 5px;
+}
+
+/**
+    JUMBOTRON BLOCKS
+**/
+.jumbotron{
+    background-color:#00ACC1;
+}
+
+.jumbotron > *{
+    color:white;
+    font-size: 14px;
+}
+.jumbotron h1{
+    font-size: 25px;
+}
+/**
+    MAIN BLOCKS
+**/
+main{
+    margin: 25px 0;
+}

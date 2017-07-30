@@ -20,6 +20,7 @@
 **/
 .jumbotron{
     background-color:#00ACC1;
+    /*padding-left: 0;*/
 }
 
 .jumbotron > *{
@@ -34,4 +35,7 @@
 **/
 main{
     margin: 25px 0;
+}
+#my-form{
+    width:360px;
 }
